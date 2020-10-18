@@ -1,0 +1,96 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Verdana;
+}
+nav{
+  background-color: black;
+  height: 30px;
+  margin: 2px;
+  padding: 5px;
+  
+}
+nav ul{
+  float: right;
+  
+  
+}
+nav ul a{
+  text-decoration: none;
+  line-height: 30px;
+  color: white;
+  margin: 5px;
+  padding: 1px;
+  
+}
+nav ul a:hover{
+  background-color: green;
+  color: blue;
+  border-radius: 5px;
+}
+
+#home{
+  
+  
+}
+.home{
+  background-color: indigo;
+  color: white;
+  text-align: center;
+  margin: 3px;
+  
+}
+#home h3{
+  border: 1px solid black;
+  border-radius: 2px;
+  color: red;
+  display: inline;
+  margin: 3px;
+  
+  
+}
+#home p{
+  margin: 3px;
+  color: blue;
+  
+  
+}
+
+.about{
+  background-color: indigo;
+  color: white;
+  text-align: center;
+  margin: 3px;
+  
+}
+
+
+
+
+
+
+
+
+
+.contact{
+  background-color: indigo;
+  color: white;
+  text-align: center;
+  margin: 3px;
+  
+}
+
+
+
+
+
+
+
+
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 2px;
+  padding: 2px;
+}
